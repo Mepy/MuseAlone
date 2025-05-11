@@ -32,7 +32,7 @@ div.container {
     display: flex;
 }
 
-div.key.while {
+div.key.white {
     background: linear-gradient(#fff 96%, #eee 4%);
 
     width: 40px;
@@ -61,7 +61,7 @@ div.key.black:active {
     top: 5px;
 }
 
-div.key.while:active {
+div.key.white:active {
     position: relative;
     left: 1px;
     top: 5px;
@@ -91,7 +91,7 @@ div.keys {
     margin: 0;
 }
 
-.key.while > .key.name {
+.key.white > .key.name {
     position: relative;
     bottom: -120px;
     left: 13px;
